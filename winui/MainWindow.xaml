@@ -7,9 +7,9 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Title="winui">
+    Title="Dota 2 Localization Changer">
 
-    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-        <Button x:Name="myButton" Click="myButton_Click">Click Me</Button>
-    </StackPanel>
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Button Grid.Row="0" Grid.Column="0" Name="myButton"></Button>
+    </Grid>
 </Window>

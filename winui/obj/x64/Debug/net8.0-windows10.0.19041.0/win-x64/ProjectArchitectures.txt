@@ -1,1 +1,0 @@
-C:\Users\artem\Documents\GitHub\dota-custom-local\winui\winui.csproj;x64
