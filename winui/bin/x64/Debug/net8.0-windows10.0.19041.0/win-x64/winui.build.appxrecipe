@@ -655,8 +655,50 @@
     <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\winui.deps.json">
       <PackagePath>winui.deps.json</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\icon\dota2.ico">
+      <PackagePath>Assets\icon\dota2.ico</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\icon\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\icon\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\icon\SplashScreen.scale-200.png">
+      <PackagePath>Assets\icon\SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\icon\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\icon\Square150x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\icon\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\icon\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\icon\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\icon\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\icon\StoreLogo.png">
+      <PackagePath>Assets\icon\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\icon\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\icon\Wide310x150Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\loc\abilities_russian.json">
+      <PackagePath>Assets\loc\abilities_russian.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\loc\abilities_russian.txt">
+      <PackagePath>Assets\loc\abilities_russian.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\loc\abilities_russian_pbc.txt">
+      <PackagePath>Assets\loc\abilities_russian_pbc.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\loc\cfg\default_config.json">
+      <PackagePath>Assets\loc\cfg\default_config.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\loc\cfg\user_config.json">
+      <PackagePath>Assets\loc\cfg\user_config.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\loc\herolist.json">
+      <PackagePath>Assets\loc\herolist.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\Documents\GitHub\dota-custom-local\winui\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>

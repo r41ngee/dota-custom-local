@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("winui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b0825e10dd770cc92e26f172bc7599b19dc86d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b962f9123ea029e00d50599e21cb1bec74924fc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("winui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("winui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
