@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Text.Json;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
@@ -26,11 +27,8 @@ namespace winui
         public MainWindow()
         {
             this.InitializeComponent();
-        }
-
-        private void myButton_Click(object sender, RoutedEventArgs e)
-        {
-            myButton.Content = "Clicked";
+            string heroList = File.ReadAllText(Path.Combine(AppContext.BaseDirectory, "Assets/loc/herolist.json"));
+            result.Text = heroList;
         }
     }
 }
